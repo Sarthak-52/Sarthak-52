@@ -17,13 +17,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-52&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-52&layout=compact&theme=radical)
 
 ---
 
-## 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
 
 ---
 
